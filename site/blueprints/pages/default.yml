@@ -12,7 +12,7 @@ columns:
             size: huge
   sidebar:
     width: 1/3
-    sections:
+    sections:No utility classes were detected in your source files. If this is unexpected, doubNo utility classes were detected in your source files. If this is unexpected, double-check the `content` option in your Tailwind CSS configurationle-check the `content` option in your Tailwind CSS configuration
       pages:
         type: pages
         template: default

@@ -1,12 +1,25 @@
 Title: Teams
+
 ----
 
 Intro: Hey
+
 ----
+
 Year: 2023
+
 ----
+
 Category: Editorial
+
 ----
-Client : Surfshark
------
+
+Client: Surfshark
+
+----
+
 Credits: Rayyan
+
+----
+
+Uuid: sFS5SndBi839ZDYk

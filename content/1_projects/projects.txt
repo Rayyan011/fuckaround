@@ -1,1 +1,10 @@
 Title: Projects
+
+----
+
+Text: projects go here
+
+----
+Image:
+----
+Uuid: kEDgRcflm8rDqgLX

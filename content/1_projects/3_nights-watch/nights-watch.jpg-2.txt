@@ -1,0 +1,17 @@
+Alt: This shows something
+
+----
+
+Caption: The nights watch
+
+----
+
+Text: This is a painting i did when i was 9
+
+----
+
+Image: nights-watch-1.jpg
+
+----
+
+Uuid: IlLrf1mIl7XzOStI

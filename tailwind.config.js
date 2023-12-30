@@ -1,8 +1,12 @@
+
 module.exports = {
-    darkMode: 'class',
-    theme: {
-      extend: {},
-    },
-    variants: {},
-    plugins: [],
-  }
+  content: [ 
+    'site/**/*.php'
+  ],
+  theme: {
+    extend: {},
+  },
+  variants: {},
+  plugins: [],
+}
+
